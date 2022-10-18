@@ -5,6 +5,7 @@
  * Return: always 0
  */
 int main(void)
+
 {
 	unsigned int a, b, c, d, s;
 	a = 1;
@@ -24,4 +25,3 @@ int main(void)
 	printf("%u\n", s);
 	return (0);
 }
-
