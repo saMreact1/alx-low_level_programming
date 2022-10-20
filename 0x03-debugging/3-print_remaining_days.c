@@ -2,7 +2,8 @@
 #include "main.h"
 
 /**
- * print_remaining_days - takes a date ant prints how many days are left in the year, taking a leap year into account
+ * print_remaining_days - takes a date ant prints how many days are
+ * left in the year, taking a leap year into account
  * @month: month in number format
  * @dat: day of month
  * @year: year
